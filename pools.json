@@ -23,6 +23,12 @@
 		"searchStrings": [
 			"/Garlic Factory/"
 		]
-	}
-
+	},
+  {
+    "poolName": "Garlicsoup.xyz",
+		"url": "https://pool.garlicsoup.xyz/",
+		"searchStrings": [
+			"/Garlicsoup.xyz/"
+    ]
+  }
 ]
