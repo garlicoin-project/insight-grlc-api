@@ -18,10 +18,17 @@
 			"/Bakery/"
 		]
 	}, {
-		"poolName": "Garlicsoup.xyz",
+		"poolName": "Garlic Factory",
+		"url": "https://garlic-factory.fun/",
+		"searchStrings": [
+			"/Garlic Factory/"
+		]
+	},
+  {
+    "poolName": "Garlicsoup.xyz",
 		"url": "https://pool.garlicsoup.xyz/",
 		"searchStrings": [
 			"/Garlicsoup.xyz/"
-		]
-	}
+    ]
+  }
 ]
