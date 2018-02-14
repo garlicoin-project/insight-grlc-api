@@ -36,6 +36,12 @@
 		"searchStrings": [
 			"/Garlicsoup.xyz/"
 		]
+	}, {
+		"poolName": "grlc.co",
+		"url": "http://grlc.co/",
+		"searchStrings": [
+			"/grlc.co/"
+		]
 	},{
 		"poolName": "Garlic Bread Pool",
 		"url": "https://www.garlicbread.xyz/",
