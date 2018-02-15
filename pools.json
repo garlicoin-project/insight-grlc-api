@@ -65,5 +65,14 @@
 	"searchStrings": [
 		"/GarlicBois/"
 	]
+}, {
+	"poolName": "The RypeNation",
+	"url": "http://rypenation.club/",
+	"searchStrings": [
+		"/RypeNation/",
+		"/The RypeNation/",
+		"/RypeNation.club/",
+		"/RypeDub/"
+	]
 	
 }]
