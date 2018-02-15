@@ -1,46 +1,50 @@
-[
-	{
-		"poolName": "WildGarlic",
-		"url": "https://wildgarlic.fun/",
-		"searchStrings": [
-			"WildGarlic"
-		]
-	}, {
-		"poolName": "FreshGRLC.net",
-		"url": "https://freshgrlc.net/",
-		"searchStrings": [
-			"/FreshGRLC.net/"
-		]
-	}, {
-		"poolName": "Bakery",
-		"url": "https://grlc-bakery.fun/",
-		"searchStrings": [
-			"/Bakery/"
-		]
-	}, {
-		"poolName": "Garlicpool.org",
-		"url": "https://www.garlicpool.org/",
-		"searchStrings": [
-			"/Garlicpool EU/",
-			"/Garlicpool US/"
-		]
-	}, {
-		"poolName": "Garlic Factory",
-		"url": "https://garlic-factory.fun/",
-		"searchStrings": [
-			"/Garlic Factory/"
-		]
-	}, {
-		"poolName": "Garlicsoup.xyz",
-		"url": "https://pool.garlicsoup.xyz/",
-		"searchStrings": [
-			"/Garlicsoup.xyz/"
-		]
-	},{
-		"poolName": "Garlic Bread Pool",
-		"url": "https://www.garlicbread.xyz/",
-		"searchStrings": [
-			"/GBP/"
-		]
-	}
-]
+[{
+	"poolName": "Bakery",
+	"url": "https://grlc-bakery.fun/",
+	"searchStrings": [
+		"/Bakery/"
+	]
+}, {
+	"poolName": "ButterPool",
+	"url": "https://butterpool.com/",
+	"searchStrings": [
+		"/ButterPool/"
+	]
+}, {
+	"poolName": "FreshGRLC.net",
+	"url": "https://freshgrlc.net/",
+	"searchStrings": [
+		"/FreshGRLC.net/"
+	]
+}, {
+	"poolName": "Garlicpool.org",
+	"url": "https://www.garlicpool.org/",
+	"searchStrings": [
+		"/Garlicpool EU/",
+		"/Garlicpool US/"
+	]
+}, {
+	"poolName": "Garlic Bread Pool",
+	"url": "https://www.garlicbread.xyz/",
+	"searchStrings": [
+		"/GBP/"
+	]
+}, {
+	"poolName": "Garlic Factory",
+	"url": "https://garlic-factory.fun/",
+	"searchStrings": [
+		"/Garlic Factory/"
+	]
+}, {
+	"poolName": "Garlicsoup.xyz",
+	"url": "https://pool.garlicsoup.xyz/",
+	"searchStrings": [
+		"/Garlicsoup.xyz/"
+	]
+}, {
+	"poolName": "WildGarlic",
+	"url": "https://wildgarlic.fun/",
+	"searchStrings": [
+		"WildGarlic"
+	]
+}]
