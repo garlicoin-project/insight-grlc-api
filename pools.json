@@ -30,6 +30,12 @@
 		"/GBP/"
 	]
 }, {
+	"poolName": "GarlicoinPool.com",
+	"url": "https://garlicoinpool.com",
+	"searchStrings": [
+		"GarlicoinPool.com"
+	]
+}, {
 	"poolName": "Garlic Factory",
 	"url": "https://garlic-factory.fun/",
 	"searchStrings": [
