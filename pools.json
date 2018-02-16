@@ -37,6 +37,12 @@
 		"/Garlicpool US/"
 	]
 }, {
+    	"poolName": "GarlicPress",
+    	"url": "http://www.garlicpress.eu/",
+    	"searchStrings": [
+        "/GarlicPress/"
+    	]
+}, {
 	"poolName": "Garlic Bread Pool",
 	"url": "https://www.garlicbread.xyz/",
 	"searchStrings": [
