@@ -17,6 +17,13 @@
 		"/FreshGRLC.net/"
 	]
 }, {
+	"poolName": "GarlicBois",
+	"url": "https://garlicbois.com/",
+	"searchStrings": [
+		"/GarlicBois/"
+	]
+	
+}, {
 	"poolName": "Garlicpool.org",
 	"url": "https://www.garlicpool.org/",
 	"searchStrings": [
@@ -74,5 +81,4 @@
 		"/RypeNation.club/",
 		"/RypeDub/"
 	]
-	
 }]
