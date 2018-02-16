@@ -24,6 +24,12 @@
 	]
 	
 }, {
+    	"poolName": "Garlicmine",
+    	"url": "http://garlicmine.com/",
+    	"searchStrings": [
+        "/Garlicmine/"
+    	]
+}, {
 	"poolName": "Garlicpool.org",
 	"url": "https://www.garlicpool.org/",
 	"searchStrings": [
@@ -73,11 +79,11 @@
 		"/HRY-Mining.co/"
 	]
 }, {
-    "poolName": "Happy Garlic",
-    "url": "http://happy.garlicoin.fun/",
-    "searchStrings": [
+    	"poolName": "Happy Garlic",
+    	"url": "http://happy.garlicoin.fun/",
+    	"searchStrings": [
         "/HappyGarlic/"
-    ]
+    	]
 }, {
 	"poolName": "MineGarlic",
 	"url": "https://minegarlic.com/",
