@@ -17,31 +17,18 @@
 		"/FreshGRLC.net/"
 	]
 }, {
-	"poolName": "GarlicBois",
-	"url": "https://garlicbois.com/",
-	"searchStrings": [
-		"/GarlicBois/"
-	]
-	
-}, {
-	"poolName": "Garlicpool.org",
-	"url": "https://www.garlicpool.org/",
-	"searchStrings": [
-		"/Garlicpool EU/",
-		"/Garlicpool US/"
-	]
-}, {
 	"poolName": "Garlic Bread Pool",
 	"url": "https://www.garlicbread.xyz/",
 	"searchStrings": [
 		"/GBP/"
 	]
 }, {
-	"poolName": "GarlicoinPool.com",
-	"url": "https://garlicoinpool.com",
+	"poolName": "GarlicBois",
+	"url": "https://garlicbois.com/",
 	"searchStrings": [
-		"/GarlicoinPool.com/"
+		"/GarlicBois/"
 	]
+	
 }, {
 	"poolName": "Garlic Factory",
 	"url": "https://garlic-factory.fun/",
@@ -53,6 +40,19 @@
 	"url": "http://garlicmachine.redirectme.net",
 	"searchStrings": [
 		"/Garlic Machine/"
+	]
+}, {
+	"poolName": "GarlicoinPool.com",
+	"url": "https://garlicoinpool.com",
+	"searchStrings": [
+		"/GarlicoinPool.com/"
+	]
+}, {
+	"poolName": "Garlicpool.org",
+	"url": "https://www.garlicpool.org/",
+	"searchStrings": [
+		"/Garlicpool EU/",
+		"/Garlicpool US/"
 	]
 }, {
 	"poolName": "Garlicsoup.xyz",
