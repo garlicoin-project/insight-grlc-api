@@ -73,6 +73,12 @@
 		"/grlc.co/"
 	]
 }, {
+	"poolName": "Happy Garlic",
+	"url": "http://happy.garlicoin.fun/",
+	"searchStrings": [
+		"/HappyGarlic/"
+	]
+}, {
 	"poolName": "HRY-Mining.co",
 	"url": "http://hry-mining.co/",
 	"searchStrings": [
