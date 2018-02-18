@@ -24,12 +24,24 @@
 	]
 	
 }, {
+    	"poolName": "Garlicmine",
+    	"url": "http://garlicmine.com/",
+    	"searchStrings": [
+        "/Garlicmine/"
+    	]
+}, {
 	"poolName": "Garlicpool.org",
 	"url": "https://www.garlicpool.org/",
 	"searchStrings": [
 		"/Garlicpool EU/",
 		"/Garlicpool US/"
 	]
+}, {
+    	"poolName": "GarlicPress",
+    	"url": "http://www.garlicpress.eu/",
+    	"searchStrings": [
+        "/GarlicPress/"
+    	]
 }, {
 	"poolName": "Garlic Bread Pool",
 	"url": "https://www.garlicbread.xyz/",
@@ -61,10 +73,10 @@
 		"/Garlic Machine/"
 	]
 }, {
-	"poolName": "WildGarlic",
-	"url": "https://wildgarlic.fun/",
+	"poolName": "grlc.co",
+	"url": "http://grlc.co/",
 	"searchStrings": [
-		"/WildGarlic/"
+		"/grlc.co/"
 	]
 },  {
 	"poolName": "HRY-Mining.co",
@@ -73,10 +85,16 @@
 		"/HRY-Mining.co/"
 	]
 }, {
-	"poolName": "GarlicBois",
-	"url": "https://garlicbois.com/",
+    	"poolName": "Happy Garlic",
+    	"url": "http://happy.garlicoin.fun/",
+    	"searchStrings": [
+        "/HappyGarlic/"
+    	]
+}, {
+	"poolName": "MineGarlic",
+	"url": "https://minegarlic.com/",
 	"searchStrings": [
-		"/GarlicBois/"
+		"/MineGarlic/"
 	]
 }, {
 	"poolName": "The RypeNation",
@@ -88,15 +106,9 @@
 		"/RypeDub/"
 	]
 }, {
-	"poolName": "grlc.co",
-	"url": "http://grlc.co/",
+	"poolName": "WildGarlic",
+	"url": "https://wildgarlic.fun/",
 	"searchStrings": [
-		"/grlc.co/"
-	]
-}, {
-	"poolName": "MineGarlic",
-	"url": "https://minegarlic.com/",
-	"searchStrings": [
-		"/MineGarlic/"
+		"/WildGarlic/"
 	]
 }]
