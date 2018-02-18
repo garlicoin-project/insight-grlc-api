@@ -42,6 +42,12 @@
 		"/Garlic Machine/"
 	]
 }, {
+        "poolName": "Garlicmine",
+	"url": "https://garlicmine.com/",
+	"searchStrings": [
+		"/Garlicmine/"
+	]
+}, {
 	"poolName": "GarlicoinPool.com",
 	"url": "https://garlicoinpool.com",
 	"searchStrings": [
