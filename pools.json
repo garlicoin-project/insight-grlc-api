@@ -49,16 +49,16 @@
 		"/Garlic Factory/"
 	]
 }, {
-	"poolName": "Garlicsoup.xyz",
-	"url": "https://pool.garlicsoup.xyz/",
-	"searchStrings": [
-		"/Garlicsoup.xyz/"
-	]
-}, {
         "poolName": "Garlic Machine",
 	"url": "http://garlicmachine.redirectme.net",
 	"searchStrings": [
 		"/Garlic Machine/"
+	]
+}, {
+	"poolName": "Garlicsoup.xyz",
+	"url": "https://pool.garlicsoup.xyz/",
+	"searchStrings": [
+		"/Garlicsoup.xyz/"
 	]
 }, {
 	"poolName": "grlc.co",
