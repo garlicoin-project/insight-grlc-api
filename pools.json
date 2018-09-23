@@ -159,4 +159,10 @@
 	"searchStrings": [
 		"/GRLC Gang/"
 	]
+}, {
+	"poolName": "Power Pool",
+	"url": "http://powerpool.money",
+	"searchStrings": [
+		"/PowerPool/"
+	]	
 }]
